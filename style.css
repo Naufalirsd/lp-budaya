@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Quicksand:400,700");
 
-body {
+/* body {
     background: white;
     font-family: "Quicksand", sans-serif;
     background-image: url("background2.jpg");
     background-size: cover;
-}
+} */
 
 * {
     margin: 0px;
@@ -17,6 +17,8 @@ body {
     /* max-width: 1000px; */
     margin: 0 auto;
 }
+
+/* Header */
 
 header {
     background: #e54b4b;
@@ -43,6 +45,8 @@ header::after {
 .logo span {
     font-weight: 400;
 }
+
+/* site nav */
 
 .site-nav {
     position: absolute;
